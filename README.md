@@ -4,6 +4,7 @@ Dies ist ein einfacher PHP-Projektteil, der auf dem **MVC (Model-View-Controller
 
 ## 📁 Projektstruktur
 php-mvc-part/
+
 ├── app/             # Controller, Models und Views
 
 ├── config/          # Konfigurationsdateien
